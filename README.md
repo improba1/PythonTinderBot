@@ -1,4 +1,5 @@
-https://img.shields.io/badge/Python-3.9+-blue.svg
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
+
 **Ключевые особенности:**
   - Генерация профилей: AI создает уникальные анкеты для знакомств
   - Первое сообщение: AI помогает написать креативное первое сообщение
