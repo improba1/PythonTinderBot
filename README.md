@@ -1,3 +1,16 @@
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![Aiogram](https://img.shields.io/badge/python-telegram-bot-green.svg)](https://docs.python-telegram-bot.dev/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-purple.svg)](https://openai.com)
+https://img.shields.io/badge/Python-3.9+-blue.svg
+**Ключевые особенности:**
+  - Генерация профилей: AI создает уникальные анкеты для знакомств
+  - Первое сообщение: AI помогает написать креативное первое сообщение
+  - Свидание со звездой: режим симцляции диалога, где AI отвечает в роли выбранной знаменитости
+  - Свободный чат: возможность задать любой вопрос AI-ассистенту
+
+**Технологический стек:**
+  - Python
+  - python-telegram-bot
+  - OpenAI API
+  - python-dotenv
+
+**Важно:**
+  - Для работы бота необходим API-ключ от OpenAI
+  - Токен бота получается у @BotFather в Telegram
